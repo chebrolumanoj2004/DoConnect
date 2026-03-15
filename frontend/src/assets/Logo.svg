@@ -1,0 +1,25 @@
+<svg width="40" height="40" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background circle (now black) -->
+  <circle cx="32" cy="32" r="30" fill="#000000"></circle>
+
+  <!-- Chat bubble -->
+  <path d="M18 22
+           h20
+           a4 4 0 0 1 4 4
+           v10
+           a4 4 0 0 1 -4 4
+           h-10
+           l-6 5
+           v-5
+           h-4
+           a4 4 0 0 1 -4 -4
+           v-10
+           a4 4 0 0 1 4 -4z" fill="white"></path>
+
+  <!-- Connection dots -->
+  <circle cx="28" cy="30" r="2" fill="#000000"></circle>
+  <circle cx="34" cy="30" r="2" fill="#000000"></circle>
+  <circle cx="40" cy="30" r="2" fill="#000000"></circle>
+
+</svg>

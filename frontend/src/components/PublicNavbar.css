@@ -1,0 +1,27 @@
+.publicnavbar{
+background:#edbb6a;
+
+height:75px;
+padding:0 40px;
+
+display:flex;
+align-items:center;
+justify-content:space-between;
+
+font-family:Arial, Helvetica, sans-serif;
+}
+.brand{
+display:flex;
+align-items:center;
+gap:10px;
+}
+
+.logo-img{
+width:34px;
+height:34px;
+}
+
+.logo-text{
+font-size:22px;
+font-weight:600;
+}
