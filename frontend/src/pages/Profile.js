@@ -74,7 +74,7 @@ function Profile() {
         <h3>{q.title}</h3>
       </Link>
 
-      {/* ⭐ Pending Approval */}
+      
 
       {!q.approved && (
         <p style={{color:"orange", marginTop:"8px"}}>
@@ -82,7 +82,7 @@ function Profile() {
         </p>
       )}
 
-      {/* ⭐ Approved Question Logic */}
+      
 
       {q.approved && (
 
